@@ -1,49 +1,48 @@
-# 001 | Análise Exploratória de Dados em Seguros Agrícolas
+### PROJETOS DE ANALISE DA DADOS
 
-Este script em Python utiliza a biblioteca Pandas para realizar uma análise exploratória de dados em um conjunto de informações relacionadas a seguros agrícolas. Inicialmente, são configuradas as opções de exibição do Pandas e é montado o Google Drive para acessar o arquivo de dados "psrdadosabertos2016a2021excel.xlsx". Os dados são lidos e filtrados para incluir apenas registros do ano de 2021.
-
+50 + projetos que envolve Python, SQL, Pandas, R, entre outros.
 ## Resumo do Projeto
 
 | 001                                        | Análise Exploratória de Dados em Seguros Agrícolas                                                                                    |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 001                                        | Análise Exploratória de Dados em Seguros Agrícolas                                                                                    |
 | 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
-| 002                                          |
+| 003                                          |
+| 004                                          |
+| 005                                          |
+| 006                                          |
+| 007                                          |
+| 008                                          |
+| 009                                          |
+| 010                                          |
+| 011                                          |
+| 012                                          |
+| 013                                          |
+| 014                                          |
+| 015                                          |
+| 016                                          |
+| 017                                          |
+| 018                                          |
+| 019                                          |
+| 020                                          |
+| 021                                          |
+| 022                                          |
+| 023                                          |
+| 024                                          |
+| 025                                          |
+| 026                                          |
+| 027                                          |
+| 028                                          |
+| 029                                          |
+| 030                                          |
+| 031                                          |
+| 032                                          |
+| 033                                          |
+| 034                                          |
+| 035                                          |
+| 036                                          |
+| 037                                          |
+| 038                                          |
 | 002                                          |
 | 002                                          |
 | 002                                          |
