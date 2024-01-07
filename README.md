@@ -10,7 +10,7 @@
 | 003                                          |
 | 004                                          |
 | 005                                          |
-| 006                                          |
+| 006                                          |Empregos e salários em ciência de dados
 | 007                                          |
 | 008                                          |
 | 009                                          |
