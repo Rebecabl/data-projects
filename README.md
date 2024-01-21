@@ -1,4 +1,4 @@
-
+Este repositório abriga diversos projetos de análise de dados em Python, com ênfase na biblioteca Pandas. Cada projeto explora conjuntos de dados distintos, aplicando técnicas de manipulação, limpeza e visualização. Além do Pandas, são utilizadas outras bibliotecas fundamentais, como NumPy, Matplotlib e Seaborn, para proporcionar análises detalhadas e visualizações. Destaca-se também o uso do Microsoft Excel em alguns projetos para armazenamento, análise e exportação de dados.
 
 | Projeto | Descrição |
 |---------|-----------|
