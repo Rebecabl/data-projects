@@ -1,6 +1,6 @@
-# Data Analysis Projects
+# Data Analysis and Data Science Projects
 
-This repository hosts various data analysis projects in Python, with a focus on the Pandas library. Each project explores different datasets, applying techniques for manipulation, cleaning, and visualization. In addition to Pandas, fundamental libraries like NumPy, Matplotlib, and Seaborn are used to provide detailed analyses and visualizations. Microsoft Excel is also employed in some projects for data storage, analysis, and export.
+
 
 ## Projects Overview
 
